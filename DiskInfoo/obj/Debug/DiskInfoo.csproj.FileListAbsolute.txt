@@ -1,0 +1,11 @@
+C:\Users\tti02510\Desktop\VSTEST\DiskInfoo\DiskInfoo\bin\Debug\DiskInfoo.exe.config
+C:\Users\tti02510\Desktop\VSTEST\DiskInfoo\DiskInfoo\bin\Debug\DiskInfoo.exe
+C:\Users\tti02510\Desktop\VSTEST\DiskInfoo\DiskInfoo\bin\Debug\DiskInfoo.pdb
+C:\Users\tti02510\Desktop\VSTEST\DiskInfoo\DiskInfoo\obj\Debug\DiskInfoo.csproj.AssemblyReference.cache
+C:\Users\tti02510\Desktop\VSTEST\DiskInfoo\DiskInfoo\obj\Debug\DiskInfoo.csproj.SuggestedBindingRedirects.cache
+C:\Users\tti02510\Desktop\VSTEST\DiskInfoo\DiskInfoo\obj\Debug\DiskInfoo.Form1.resources
+C:\Users\tti02510\Desktop\VSTEST\DiskInfoo\DiskInfoo\obj\Debug\DiskInfoo.Properties.Resources.resources
+C:\Users\tti02510\Desktop\VSTEST\DiskInfoo\DiskInfoo\obj\Debug\DiskInfoo.csproj.GenerateResource.cache
+C:\Users\tti02510\Desktop\VSTEST\DiskInfoo\DiskInfoo\obj\Debug\DiskInfoo.csproj.CoreCompileInputs.cache
+C:\Users\tti02510\Desktop\VSTEST\DiskInfoo\DiskInfoo\obj\Debug\DiskInfoo.exe
+C:\Users\tti02510\Desktop\VSTEST\DiskInfoo\DiskInfoo\obj\Debug\DiskInfoo.pdb
